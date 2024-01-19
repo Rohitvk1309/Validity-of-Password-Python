@@ -1,2 +1,1 @@
-# Validity-of-Password
 # Python
